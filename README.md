@@ -1,6 +1,6 @@
 Hi, I’m @Mr-Headset-Joy
 
-I’m currently a stedent in the Masters of Applied Data Science (MADS) program at the University of Michigan.
+I’m currently a student in the Masters of Applied Data Science (MADS) program at the University of Michigan.
 
 How to reach me: jado@umich.edu
 
