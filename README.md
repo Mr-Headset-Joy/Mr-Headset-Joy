@@ -4,7 +4,7 @@ I’m currently a student in the Masters of Applied Data Science (MADS) program 
 
 How to reach me: jado@umich.edu
 
-⚡ Fun fact: My world record attempt for continuous showering was rejected my Guiness because it had "no skill element".
+⚡ Fun fact: My world record attempt for continuous showering was rejected by Guiness because it had "no skill element".
 
 <!---
 Mr-Headset-Joy/Mr-Headset-Joy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
